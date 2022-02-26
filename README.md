@@ -23,6 +23,8 @@ Windows 11 の PlatformIO 環境で開発・動作確認をしています。
 
 ## サンプルプログラム
 
+<a href="https://gyazo.com/ba76c2d09c579dc066f06056abb5fdf2"><img src="https://i.gyazo.com/ba76c2d09c579dc066f06056abb5fdf2.jpg" alt="動作の様子" width="600"/></a>
+
 サンプルプログラム（`main.cpp`）では，イニシエータの A ボタンを押すと，レスポンダ側のシリアルにイニシエータの MAC アドレスと送信データ，送信データのダンプが表示されます。
 
 サンプルではデフォルトの送信先としてブロードキャストアドレス（`FF:FF:FF:FF:FF:FF`）を指定しています。
